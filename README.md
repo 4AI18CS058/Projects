@@ -13,5 +13,5 @@ This project visualizes 2 months of customer sales data across Indian states, tr
 - DAX
 
 ## File Description
-- `Sales_Dashboard.pbix`: Main dashboard
-- `Agent_Sales_Data.xlsx`: Sample dataset
+- `sales.pbix`: Main dashboard
+- `sales data.csv`: Sample dataset
